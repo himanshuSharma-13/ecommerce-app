@@ -8,7 +8,7 @@ interface Map {
     [key: string]: { imageUrl: string, title: string }
 }
 
-export default function OurComany() {
+export default function home() {
 
     // const [dimensions, setDimensions] = useState<any>(
     //     {
